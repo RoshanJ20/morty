@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">morty</string>
+    <string name="app_name_home_screen">Morty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="characters">Characters</string>
+    <string name="episodes">Episodes</string>
+    <string name="all_episodes">All Episodes</string>
+    <string name="all_characters">All Characters</string>
+</resources>

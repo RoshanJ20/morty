@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483799334975",
+    "project_id": "morty-f89b8",
+    "storage_bucket": "morty-f89b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483799334975:android:da33073c949ba1a880788a",
+        "android_client_info": {
+          "package_name": "com.example.morty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9tCRFU0PldoLLzewWlyoGdkgI0Rz2bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
